@@ -47,7 +47,7 @@ streamlit run app.py
 Then open:
 
 ```text
-http://localhost:8501
+(https://housingpricepredictionproject.streamlit.app/)
 ```
 
 ## Project Files

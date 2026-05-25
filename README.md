@@ -47,7 +47,7 @@ streamlit run app.py
 Then open:
 
 ```text
-(https://housingpricepredictionproject.streamlit.app/)
+https://housingpricepredictionproject.streamlit.app/
 ```
 
 ## Project Files
